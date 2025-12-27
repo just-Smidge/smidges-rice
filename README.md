@@ -2,7 +2,7 @@
 <img width="1920" height="1080" alt="Screenshot_20251227_154325" src="https://github.com/user-attachments/assets/a560ce36-eb7b-4519-b168-9d7931ae75d0" /> <br>
 
 # links & credits
-r/unixporn post: <br> <br>
+r/unixporn post:https://www.reddit.com/r/unixporn/comments/1pwpefp/kde_ive_become_a_big_fan_of_rose_pine_and_side/ <br> <br>
 wallpaper: https://github.com/rose-pine/wallpapers <br>
 vencord theme https://github.com/refact0r/midnight-discord
 zed theme rose pine
