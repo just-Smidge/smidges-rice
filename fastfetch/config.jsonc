@@ -1,0 +1,56 @@
+{
+    "logo": {
+        "source": "/home/smidge/.config/fastfetch/logo/cat_fox.txt",
+        "type": "file",
+  },
+  "modules": [
+    {
+      "type": "os",
+      "key": " ",
+      "keyWidth": 3
+    },
+    {
+      "type": "kernel",
+      "key": " ",
+      "keyWidth": 3
+    },
+    {
+      "type": "cpu",
+      "key": " ",
+      "keyWidth": 3
+    },
+    {
+      "type": "gpu",
+      "hideType": "Integrated",
+      "key": " ",
+      "hideIntegrated": true,
+      "keyWidth": 3,
+    },
+    {
+      "type": "packages",
+      "key": "󰏖 ",
+      "keyWidth": 3
+    },
+    {
+      "type": "shell",
+      "key": " ",
+      "keyWidth": 3
+    },
+    {
+      "type": "terminal",
+      "key": " ",
+      "keyWidth": 3
+    },
+    {
+      "type": "de",
+      "key": " ",
+      "keyWidth": 3
+    },
+    {
+      "type": "uptime",
+      "key": "󱎫 ",
+      "keyWidth": 3
+    }
+  ]
+}
+

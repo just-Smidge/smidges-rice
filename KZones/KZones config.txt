@@ -1,0 +1,56 @@
+[
+    {
+        "name": "single",
+        "padding": 12,
+        "zones": [
+            {
+                "x": 0,
+                "y": 0,
+                "height": 100,
+                "width": 100
+            }
+        ]
+    },
+    {
+        "name": "split",
+        "padding": 12,
+        "zones": [
+            {
+                "x": 0,
+                "y": 0,
+                "height": 100,
+                "width": 50
+            },
+            {
+                "x": 50,
+                "y": 0,
+                "height": 100,
+                "width": 50
+            }
+        ]
+    },
+    {
+        "name": "tri",
+        "padding": 12,
+        "zones": [
+            {
+                "x": 0,
+                "y": 0,
+                "height": 100,
+                "width": 60
+            },
+            {
+                "x": 60,
+                "y": 0,
+                "height": 50,
+                "width": 40
+            },
+            {
+                "x": 60,
+                "y": 50,
+                "height": 50,
+                "width": 40
+            }
+        ]
+    }
+]
