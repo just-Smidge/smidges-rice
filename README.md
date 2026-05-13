@@ -1,4 +1,4 @@
-# HanaFade - arch gnome rice by Smidge
+
 <img width="1920" height="1080" alt="Screenshot_20251227_154325" src="https://github.com/user-attachments/assets/a560ce36-eb7b-4519-b168-9d7931ae75d0" /> <br>
 
 # links & credits
